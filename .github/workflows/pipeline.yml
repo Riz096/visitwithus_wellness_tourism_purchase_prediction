@@ -36,7 +36,7 @@ jobs:
           api.upload_file(
               path_or_fileobj="data/tourism.csv",
               path_in_repo="tourism.csv",
-              repo_id="Rizwan9/Rizwan9/visit-with-us-wellness-tourism-purchase-prediction",
+              repo_id="Rizwan9/visit-with-us-wellness-tourism-purchase-prediction",
               repo_type="dataset"
           )
 
